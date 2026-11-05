@@ -11,14 +11,16 @@ ISBN validation and extraction for Python.
 ## Installation
 
 ```bash
-pip install isbn_utils
+pip install git+https://github.com/accessibleapps/isbn_utils.git
 ```
 
 Or with uv:
 
 ```bash
-uv add isbn_utils
+uv add git+https://github.com/accessibleapps/isbn_utils.git
 ```
+
+It isn't on PyPI, so install it from GitHub.
 
 ## Usage
 
